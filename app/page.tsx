@@ -14,8 +14,8 @@ export default function HomePage() {
                 <HeroSection />
                 <CarListings />
                 <FeatureSection />
-                <FaqSection />
                 <CtaSection />
+                <FaqSection />
             </main>
             <SiteFooter />
         </div>
